@@ -728,8 +728,8 @@ GameObject:
   - component: {fileID: 902946528}
   - component: {fileID: 902946527}
   - component: {fileID: 902946526}
-  m_Layer: 0
-  m_Name: Floor
+  m_Layer: 6
+  m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1770,7 +1770,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _orientationTransform: {fileID: 252642265}
-  _movementSpeed: 15
+  _movementKey: 101
+  _movementSpeed: 30
+  _jumpKey: 32
+  _jumpForce: 5
+  _jumpCooldown: 0.5
+  _canJump: 1
+  _slideKey: 113
+  _sliderMultiplier: 2
+  _slideDrag: 2
+  _playerHeight: 1
+  _groundLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  _groundDrag: 5
 --- !u!1 &2125157351
 GameObject:
   m_ObjectHideFlags: 0

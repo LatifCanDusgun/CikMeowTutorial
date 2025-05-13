@@ -197,5 +197,11 @@ public class PlayerController : MonoBehaviour
    {
       _jumpForce = _startingJumpForce;
    }
+
+   public Rigidbody GetPlayerRigidbody()
+   {
+      return _playerRigidbody;
+   }
+   
    #endregion
 }

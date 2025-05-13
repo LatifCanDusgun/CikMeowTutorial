@@ -6,8 +6,23 @@
   <component name="ChangeListManager">
     <list default="true" id="67ce4d9b-6e7c-4e7f-9154-656e62e831ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/GoldWheat.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/GoldWheat.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/HolyWheat.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/HolyWheat.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/RottenWheat.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/RottenWheat.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/3rdParty/FolderColor/SaveSetUp/FolderModificationData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/3rdParty/FolderColor/SaveSetUp/FolderModificationData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Collectibles/Wheats/GoldWheatCollectible.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Collectibles/Wheats/GoldWheatCollectible.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Boosters.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Boosters/SpatulaVisual.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Boosters/SpatulaVisual.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Collectibles.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Collectibles.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Collectibles/EggCollectibleVisual.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Collectibles/EggCollectibleVisual.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Collectibles/WheatCollectibleVisual.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Collectibles/WheatCollectibleVisual.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Damageables.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Damageables.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerInteractionController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerInteractionController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Helpers/Consts.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Helpers/Consts.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +125,7 @@
       <workItem from="1746908827434" duration="5022000" />
       <workItem from="1746957476327" duration="10205000" />
       <workItem from="1747047559697" duration="10784000" />
-      <workItem from="1747129645914" duration="4300000" />
+      <workItem from="1747129645914" duration="6911000" />
     </task>
     <servers />
   </component>

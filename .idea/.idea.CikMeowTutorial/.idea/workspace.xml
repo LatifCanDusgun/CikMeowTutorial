@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="67ce4d9b-6e7c-4e7f-9154-656e62e831ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/GoldWheat.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/GoldWheat.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/HolyWheat.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/HolyWheat.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/RottenWheat.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/RottenWheat.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/3rdParty/FolderColor/SaveSetUp/FolderModificationData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/3rdParty/FolderColor/SaveSetUp/FolderModificationData.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +110,7 @@
       <workItem from="1747047559697" duration="10784000" />
       <workItem from="1747129645914" duration="11945000" />
       <workItem from="1747218432722" duration="6069000" />
-      <workItem from="1747303247639" duration="3586000" />
+      <workItem from="1747303247639" duration="5798000" />
     </task>
     <servers />
   </component>

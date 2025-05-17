@@ -7,12 +7,9 @@
     <list default="true" id="67ce4d9b-6e7c-4e7f-9154-656e62e831ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/3rdParty/FolderColor/SaveSetUp/FolderModificationData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/3rdParty/FolderColor/SaveSetUp/FolderModificationData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Fonts/Toon Cats SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Fonts/Toon Cats SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Enums/PlayerState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Enums/PlayerState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Camera/ThirdPersonCameraController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Camera/ThirdPersonCameraController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerAnimationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerAnimationController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Helpers/Consts.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Helpers/Consts.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers/GameManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/TimerUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/TimerUI.cs" afterDir="false" />
     </list>
@@ -125,7 +122,8 @@
       <workItem from="1747397061903" duration="15090000" />
       <workItem from="1747432403515" duration="80000" />
       <workItem from="1747435574017" duration="2657000" />
-      <workItem from="1747477667713" duration="1270000" />
+      <workItem from="1747477667713" duration="5329000" />
+      <workItem from="1747500917712" duration="3666000" />
     </task>
     <servers />
   </component>

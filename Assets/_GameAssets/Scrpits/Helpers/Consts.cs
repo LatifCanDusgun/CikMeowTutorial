@@ -7,6 +7,13 @@ public class Consts
   {
     public const string SAMPLE_SCENE = "SampleScene";
   }
+
+  public struct Layers
+  {
+    public const string GROUND_LAYER = "Ground";
+    
+    public const string FLOOR_LAYER = "Floor";
+  }
   
   public struct PlayerAnimations
   {

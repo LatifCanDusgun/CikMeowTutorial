@@ -5,6 +5,8 @@ public class Consts
 
   public struct SceneNames
   {
+    public const string MENU_SCENE = "MenuScene"; 
+    
     public const string SAMPLE_SCENE = "SampleScene";
   }
 

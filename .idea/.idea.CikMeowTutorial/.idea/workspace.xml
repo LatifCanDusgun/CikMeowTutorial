@@ -7,11 +7,15 @@
     <list default="true" id="67ce4d9b-6e7c-4e7f-9154-656e62e831ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/3rdParty/FolderColor/SaveSetUp/FolderModificationData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/3rdParty/FolderColor/SaveSetUp/FolderModificationData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Animations/Cat/CatAnimator.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Animations/Cat/CatAnimator.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Animations/Cat/CatAttackAnimation.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Animations/Cat/CatAttackAnimation.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Animations/Cat/CatIdleAnimation.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Animations/Cat/CatIdleAnimation.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Animations/Cat/CatRunAnimation.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Animations/Cat/CatRunAnimation.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Animations/Cat/CatWalkAnimation.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Animations/Cat/CatWalkAnimation.anim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Fonts/Toon Cats SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Fonts/Toon Cats SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Cat/CatController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Cat/CatController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Helpers/Consts.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Helpers/Consts.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +130,7 @@
       <workItem from="1747500917712" duration="4055000" />
       <workItem from="1747668785350" duration="2627000" />
       <workItem from="1747742030349" duration="4767000" />
-      <workItem from="1747828488547" duration="2189000" />
+      <workItem from="1747828488547" duration="4598000" />
     </task>
     <servers />
   </component>

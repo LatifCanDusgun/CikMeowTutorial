@@ -10915,11 +10915,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c6ae1b494880ff449b0139d8e8fb7b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _playerController: {fileID: 2056976236}
+  _playerTransform: {fileID: 2056976235}
   _defaultSpeed: 5
   _chaseSpeed: 7
   _patrolRadius: 28
   _waitTime: 6.75
   _maxDestinationAttempts: 50
+  _chaseDistanceThreshold: 2.25
+  _chaseDistance: 2.75
 --- !u!1 &1901551913
 GameObject:
   m_ObjectHideFlags: 0
@@ -11676,7 +11680,7 @@ MonoBehaviour:
   _playerHeight: 1
   _groundLayer:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 320
   _groundDrag: 5
 --- !u!114 &2056976237
 MonoBehaviour:

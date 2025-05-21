@@ -7,25 +7,10 @@
     <list default="true" id="67ce4d9b-6e7c-4e7f-9154-656e62e831ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/3rdParty/FolderColor/SaveSetUp/FolderModificationData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/3rdParty/FolderColor/SaveSetUp/FolderModificationData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Fonts/Toon Cats SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Fonts/Toon Cats SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Damageables/StoveMulti.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Damageables/StoveMulti.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Damageables/StoveSingle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Damageables/StoveSingle.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Counters/CounterCorner.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Counters/CounterCorner.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Counters/CounterDefault.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Counters/CounterDefault.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Counters/CounterSink.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Counters/CounterSink.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Counters/Fridge.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Counters/Fridge.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/Chair.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/Chair.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/ChairStool.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/ChairStool.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/CounterDecorated.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/CounterDecorated.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/Floor.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/Floor.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/SinkDecorated.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/SinkDecorated.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/TableDecorated.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/TableDecorated.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/TableRoundDecorated.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/TableRoundDecorated.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/TableSmall.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Prefabs/Environment/Decorations/TableSmall.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Cat/CatController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Cat/CatController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Helpers/Consts.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Helpers/Consts.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers/GameManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +125,8 @@
       <workItem from="1747477667713" duration="5329000" />
       <workItem from="1747500917712" duration="4055000" />
       <workItem from="1747668785350" duration="2627000" />
-      <workItem from="1747742030349" duration="3761000" />
+      <workItem from="1747742030349" duration="4767000" />
+      <workItem from="1747828488547" duration="2189000" />
     </task>
     <servers />
   </component>

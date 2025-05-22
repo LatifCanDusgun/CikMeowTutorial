@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67ce4d9b-6e7c-4e7f-9154-656e62e831ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Fonts/Toon Cats SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Fonts/Toon Cats SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/CatMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/CatMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/ChickMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/ChickMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/ColorMaterials/GreenMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/ColorMaterials/GreenMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/ColorMaterials/PinkMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/ColorMaterials/PinkMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/ColorMaterials/RedMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/ColorMaterials/RedMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/ColorMaterials/YellowMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/ColorMaterials/YellowMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/DefaultMaterials/FloorMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/DefaultMaterials/FloorMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/DefaultMaterials/KaykitRestaurantMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/DefaultMaterials/KaykitRestaurantMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/DefaultMaterials/TinyTreatsMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/DefaultMaterials/TinyTreatsMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/EggMaterials/Egg1Materials.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/EggMaterials/Egg1Materials.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/EggMaterials/Egg2Materials.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/EggMaterials/Egg2Materials.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/EggMaterials/Egg3Materials.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/EggMaterials/Egg3Materials.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/EggMaterials/Egg4Materials.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/EggMaterials/Egg4Materials.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/EggMaterials/Egg5Materials.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/EggMaterials/Egg5Materials.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/GoldWheatMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/GoldWheatMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/HolyWheatMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/HolyWheatMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/RottenWheatMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/RottenWheatMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Materials/WheelMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Materials/WheelMaterial.mat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +140,7 @@
       <workItem from="1747668785350" duration="2627000" />
       <workItem from="1747742030349" duration="4767000" />
       <workItem from="1747828488547" duration="4699000" />
-      <workItem from="1747914203103" duration="2319000" />
+      <workItem from="1747914203103" duration="3016000" />
     </task>
     <servers />
   </component>

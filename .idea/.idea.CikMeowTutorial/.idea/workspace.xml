@@ -6,11 +6,95 @@
   <component name="ChangeListManager">
     <list default="true" id="67ce4d9b-6e7c-4e7f-9154-656e62e831ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/3rdParty/FolderColor/SaveSetUp/FolderModificationData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/3rdParty/FolderColor/SaveSetUp/FolderModificationData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Fonts/Toon Cats SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Fonts/Toon Cats SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Enums/GameState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Enums/GameState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Animations/Timeline/CutSceneTimeline.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Animations/Timeline/CutSceneTimeline.playable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Boostables.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Boostables/IBoostables.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Boostables/IBoostables.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Boostables/SpatulaBooster.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Boostables/SpatulaBooster.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Collectibles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Collectibles/EggCollectible.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Collectibles/EggCollectible.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Collectibles/ICollectible.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Collectibles/ICollectible.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Collectibles/Wheats.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Collectibles/Wheats/GoldWheatCollectible.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Collectibles/Wheats/GoldWheatCollectible.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Collectibles/Wheats/HolyWheatCollectible.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Collectibles/Wheats/HolyWheatCollectible.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Collectibles/Wheats/RottenWheatCollectible.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Collectibles/Wheats/RottenWheatCollectible.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Damageables.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Damageables/FireDamageable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Damageables/FireDamageable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Damageables/IDamageable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Damageables/IDamageable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Enums.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Enums/CatState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Enums/CatState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Enums/GameState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Enums/GameState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Enums/PlayerState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Enums/PlayerState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Camera.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Camera/ThirdPersonCameraController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Camera/ThirdPersonCameraController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Cat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Cat/CatAnimationController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Cat/CatAnimationController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Cat/CatController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Cat/CatController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Cat/CatStateController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Cat/CatStateController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerAnimationController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerAnimationController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerInteractionController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/PlayerInteractionController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/StateController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Gameplay/Player/StateController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Helpers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Helpers/CameraShake.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Helpers/CameraShake.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Helpers/Consts.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Helpers/Consts.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers/GameManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers/GameManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers/HealthManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers/HealthManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers/TimelineManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/Managers/TimelineManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/ScriptableObjects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/ScriptableObjects/WheatDesignSO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/ScriptableObjects/WheatDesignSO.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/EggCounterUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/EggCounterUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/MenuControllerUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/MenuControllerUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/PlayerHealthUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/PlayerHealthUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/PlayerStateUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/PlayerStateUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/Popups.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/Popups/LosePopup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/Popups/LosePopup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/Popups/WinPopup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/Popups/WinPopup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/SettingsUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/SettingsUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/TimerUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/TimerUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/WinLoseUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scrpits/UI/WinLoseUI.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +213,8 @@
       <workItem from="1747828488547" duration="4699000" />
       <workItem from="1747914203103" duration="3016000" />
       <workItem from="1747924014242" duration="1704000" />
-      <workItem from="1747996687406" duration="2787000" />
+      <workItem from="1747996687406" duration="5473000" />
+      <workItem from="1748086781004" duration="1811000" />
     </task>
     <servers />
   </component>

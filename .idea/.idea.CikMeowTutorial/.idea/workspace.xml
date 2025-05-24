@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="67ce4d9b-6e7c-4e7f-9154-656e62e831ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CikMeowTutorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scripts/Gameplay/Cat/CatController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scripts/Gameplay/Cat/CatController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_GameAssets/Scripts/UI/SettingsUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_GameAssets/Scripts/UI/SettingsUI.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +129,7 @@
       <workItem from="1747914203103" duration="3016000" />
       <workItem from="1747924014242" duration="1704000" />
       <workItem from="1747996687406" duration="5473000" />
-      <workItem from="1748086781004" duration="3049000" />
+      <workItem from="1748086781004" duration="5527000" />
     </task>
     <servers />
   </component>
